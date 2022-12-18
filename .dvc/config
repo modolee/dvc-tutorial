@@ -2,5 +2,3 @@
     remote = storage
 ['remote "storage"']
     url = gdrive://1PFgb4T7vOJMHcLbejIrp9qYq-GxezZQ_
-    gdrive_use_service_account = true
-    gdrive_service_account_user_email = modolee-dvc-tutorial@dvc-tutorial-372008.iam.gserviceaccount.com
